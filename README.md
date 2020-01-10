@@ -10,6 +10,7 @@ Programming-Contest-Practice
 2020/01/08 Kruskal algorithm
 2020/01/09 Floyd-Warshall algorithm & PrintPath in Dijkstra algorithm
 2020/01/09 Prim algorithm (with priority_queue)
+2020/01/10 2-SAT
 ```
 
 
